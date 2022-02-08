@@ -1,0 +1,48 @@
+{
+  "_args": [
+    [
+      "@haiku/elomskine-sgcash@0.0.15",
+      "/Users/akaash/workspace/ngts"
+    ]
+  ],
+  "_from": "@haiku/elomskine-sgcash@0.0.15",
+  "_id": "@haiku/elomskine-sgcash@0.0.15",
+  "_inBundle": false,
+  "_integrity": "sha512-vXhd9CVpjrC3uvAmlg+r9ucZSYGcvPyGQuD/iCDgA1KepJE54DYuQOY7veDd6LpUkzlQTrg+t/nnu4Ho+/axTg==",
+  "_location": "/@haiku/elomskine-sgcash",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@haiku/elomskine-sgcash@0.0.15",
+    "name": "@haiku/elomskine-sgcash",
+    "escapedName": "@haiku%2felomskine-sgcash",
+    "scope": "@haiku",
+    "rawSpec": "0.0.15",
+    "saveSpec": null,
+    "fetchSpec": "0.0.15"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://reservoir.haiku.ai:8910/@haiku%2felomskine-sgcash/-/elomskine-sgcash-0.0.15.tgz",
+  "_spec": "0.0.15",
+  "_where": "/Users/akaash/workspace/ngts",
+  "dependencies": {
+    "@haiku/core": "^5.1.1"
+  },
+  "description": "This project was created with [Haiku](https://haiku.ai).",
+  "haiku": {
+    "version": "0.0.15",
+    "username": "eleonora.lam@sigfig.com",
+    "organization": "elomskine",
+    "project": "sgcash",
+    "branch": "master",
+    "folder": "/Users/slu/.haiku/projects/elomskine/sgcash",
+    "uuid": "a7c19c47-3b14-408d-96d9-477feae199c4",
+    "root": "https://cdn.haiku.ai/711946ee-c164-4c4a-b97a-dc784927cd3c/9281457115bd508b54eb089bc4592717987123db/",
+    "core": "5.1.1"
+  },
+  "name": "@haiku/elomskine-sgcash",
+  "version": "0.0.15"
+}
